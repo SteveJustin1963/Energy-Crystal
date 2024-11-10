@@ -19,7 +19,8 @@ This energy source represents a fusion of advanced extraterrestrial and human in
 
 
 
-The following version of the story maintains the charm and core ideas of the original while presenting it as a cohesive story based on the transcript in the video.
+### The following version of the story 
+maintains the charm and core ideas of the original while presenting it as a cohesive story based on the transcript in the video.
 
 ---
 
