@@ -159,7 +159,7 @@ By using iridium as a structural or catalytic layer, these compounds could achie
 ```octave
 % COMPUTER PROGRAMS FOR X-RAY CRYSTAL SIRUCTURE ANALYSIS
 % Based on SILLIAC implementation described by H.C. Freeman
-% School of Chemistry, University of Sydney, Sydney, N.S.W. 
+% School of Chemistry, University of Sydney, Sydney, N.S.W. 1957
  
 
 % Define unit cell parameters (a, b, c, alpha, beta, gamma)
@@ -454,5 +454,15 @@ The code assumes MINT 3.0 supports:
 3. Arrays for storing multiple values
 
 ////////
+
+
+## Ref
+- 36. Freeman, Hans C. (1957) “The crystal Structure of biuret hydrate and X-ray crystal structure
+calculations on the ‘Silliac’ high-speed electronic digital computer” PhD thesis, School of
+Chemistry, University of Sydney, 1957. and Freeman, Hans C. (1957) “Crystallographic
+Calculations on the SILLIAC Electronic Digital Computer” Australian Journal of Chemistry,
+vol.10, no.2, p.95. and Freeman, Hans C. (1957) “SILLIAC Computer Programs for X-Ray
+Crystal Structure Analysis.” Proc. Conf. on Data Processing and Automatic Computing
+Machines. Australian Defence Scientific Service, Department of Supply, p.120-1. ↩
 
 
