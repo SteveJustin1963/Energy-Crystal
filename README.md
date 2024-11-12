@@ -304,7 +304,7 @@ The electron density map should show peaks at the atom positions (0,0,0) and (1/
 ![image](https://github.com/user-attachments/assets/6b9d7255-44e1-42ca-8efe-05548fcd642d)
 
 
-## MINT 3.0 code With 32-bit floating point support 
+## MINT 3.0 code With 32-bit floating point support (untested 12.11.2024)
 - we mix floating point for accuracy where needed with integer math where convenient.
 
 ```floating-mint
